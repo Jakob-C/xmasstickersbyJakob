@@ -1,0 +1,314 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "present",
+      "name": "Presents",
+      "publisher": "FutureKing",
+      "tray_image_file": "aaa.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "adasdas.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "adfasf.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "aeasda.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "asdead.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "asdsaas.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "eass.webp",
+          "emojis": [""]
+
+        }
+
+
+      ]
+    },
+    {
+
+      "identifier": "gingerbread",
+      "name": "GingerBread",
+      "publisher": "FutureKing",
+      "tray_image_file": "aaa.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "ada.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "adsaf.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "aee.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "aeesa.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "asdas.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "aseasa.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "daad.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "easf.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "fasfe.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "fsaea.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "seasfsa.webp",
+          "emojis": [""]
+        }
+
+      ]
+
+    },
+    {
+
+      "identifier": "santa",
+      "name": "Santa Claus",
+      "publisher": "FutureKing",
+      "tray_image_file": "aaa.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "aeasd.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "daad.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "easddas.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "fasd.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "safasdfsa.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "Unbenannt.webp",
+          "emojis": [""]
+        }
+
+
+      ]
+
+    },
+    {
+
+      "identifier": "snow",
+      "name": "Snow",
+      "publisher": "FutureKing",
+      "tray_image_file": "aaa.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "ads.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "asdafs.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "asdas.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "asdfas.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "asdfasdf.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "asdfee.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "fseas.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "Uddnt.webp",
+          "emojis": [""]
+        }
+
+
+      ]
+
+    },
+    {
+
+      "identifier": "tree",
+      "name": "Christmas Tree",
+      "publisher": "FutureKing",
+      "tray_image_file": "aaa.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "aeasdas.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "aefasfd.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "asdeda.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "asdsaed.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "daad.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "eadfaasd.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "eadfasa.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "sadaed.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "sadeda.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "sadeds.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "Uddnt.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "Unbenannt.webp",
+          "emojis": [""]
+        }
+
+
+      ]
+
+    },
+    {
+
+      "identifier": "xmasthings",
+      "name": "X-Mas things",
+      "publisher": "FutureKing",
+      "tray_image_file": "aa.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "aefsa.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "eafe.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "fasas.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "fasde.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "fasefas.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "fasfe.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "sefas.webp",
+          "emojis": [""]
+        },
+        {
+          "image_file": "Uddnt.webp",
+          "emojis": [""]
+        }
+
+
+      ]
+
+    }
+
+
+
+  ]
+
+}
