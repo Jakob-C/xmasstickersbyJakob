@@ -269,7 +269,7 @@ public class StickerPackDetailsActivity extends BaseActivity {
         if(adpoint==0){
             //showad
 
-//            showad();
+            //  showad();
 
             adpoint = 1;
         }
